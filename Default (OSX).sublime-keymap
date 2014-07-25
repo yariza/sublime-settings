@@ -1,5 +1,6 @@
 [
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
-	{ "keys": ["super+ctrl+t"], "command": "delete_trailing_spaces"}
+	{ "keys": ["super+ctrl+t"], "command": "delete_trailing_spaces"},
+	{ "keys": ["super+ctrl+r"], "command": "reindent"}
 ]
