@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Git",
+		"MoveTab",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-javac",
+		"SublimeREPL",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
