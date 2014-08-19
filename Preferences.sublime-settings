@@ -27,7 +27,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage"
 	],
 	"line_padding_bottom": 0,
