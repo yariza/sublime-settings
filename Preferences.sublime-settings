@@ -1,6 +1,7 @@
 {
 	"caret_style": "solid",
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"convert_path": "/usr/local/bin/convert",
 	"file_exclude_patterns":
 	[
 		".DS_Store",
@@ -40,6 +41,5 @@
 	"soda_classic_tabs": true,
 	"tab_size": 4,
 	"theme": "Soda Dark.sublime-theme",
-	"wide_caret": true,
-	"word_wrap": true
+	"wide_caret": true
 }
