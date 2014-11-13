@@ -1,6 +1,6 @@
 {
 	"caret_style": "solid",
-	"color_scheme": "Packages/Colorcoder/Monokai (SL) (Colorcoded).tmTheme",
+	"color_scheme": "Packages/User/Flatgrammer (SL).tmTheme",
 	"convert_path": "/usr/local/bin/convert",
 	"file_exclude_patterns":
 	[
@@ -32,7 +32,6 @@
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
-	"original_color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL) (Colorcoded) (Colorcoded) (Colorcoded).tmTheme",
 	"rulers":
 	[
 		80
@@ -41,7 +40,7 @@
 	"show_full_path": true,
 	"soda_classic_tabs": true,
 	"tab_size": 4,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Flatgrammer.sublime-theme",
 	"use_simple_full_screen": true,
 	"wide_caret": true
 }

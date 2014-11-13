@@ -3,7 +3,6 @@
 	[
 		"All Autocomplete",
 		"Color Highlighter",
-		"Colorcoder",
 		"FullScreenStatus",
 		"Git",
 		"HTML-CSS-JS Prettify",
@@ -15,6 +14,7 @@
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-javac",
 		"SublimeREPL",
+		"Theme - Flatgrammer",
 		"Theme - Soda",
 		"TrailingSpaces",
 		"WordCount"
