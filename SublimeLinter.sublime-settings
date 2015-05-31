@@ -1,7 +1,6 @@
 {
 	"user":
 	{
-		"@disable": true,
 		"debug": false,
 		"delay": 0.25,
 		"error_color": "D02000",
@@ -26,9 +25,22 @@
 				[
 				]
 			},
-			"javac":
+			"flow":
 			{
 				"@disable": false,
+				"all": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				],
+				"lib": "",
+				"show-all-errors": true
+			},
+			"javac":
+			{
+				"@disable": true,
 				"args":
 				[
 				],
@@ -40,6 +52,7 @@
 		},
 		"mark_style": "solid underline",
 		"no_column_highlights_line": false,
+		"passive_warnings": false,
 		"paths":
 		{
 			"linux":

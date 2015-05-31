@@ -1,5 +1,6 @@
 {
 	"caret_style": "solid",
+	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/Flatgrammer (SL).tmTheme",
 	"convert_path": "/usr/local/bin/convert",
 	"file_exclude_patterns":
@@ -41,6 +42,7 @@
 	"soda_classic_tabs": true,
 	"tab_size": 4,
 	"theme": "Flatgrammer.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"use_simple_full_screen": true,
 	"wide_caret": true
 }

@@ -1,22 +1,38 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"AngularJS",
+		"Babel",
+		"C# Snippets",
 		"Color Highlighter",
+		"DoxyDoc",
+		"Flow",
 		"FullScreenStatus",
 		"Git",
 		"HTML-CSS-JS Prettify",
 		"JavaScriptNext - ES6 Syntax",
+		"Jinja2",
 		"MarkdownEditing",
 		"MoveTab",
+		"OpenGL Shading Language (GLSL)",
+		"Package Control",
 		"Pretty JSON",
+		"Project Manager",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
+		"SublimeLinter-flow",
 		"SublimeLinter-javac",
 		"SublimeREPL",
 		"Theme - Flatgrammer",
 		"Theme - Soda",
 		"TrailingSpaces",
-		"WordCount"
+		"Unity Completions Light",
+		"Unity3D",
+		"WordCount",
+		"Wrap Plus"
 	]
 }
