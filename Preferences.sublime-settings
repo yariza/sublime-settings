@@ -23,12 +23,13 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 10.0,
+	"font_size": 12.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"SublimeCodeIntel",
+		"Vintage"
 	],
 	"line_padding_bottom": -2,
 	"line_padding_top": 0,

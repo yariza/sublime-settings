@@ -1,13 +1,16 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"AngularJS",
 		"Babel",
 		"C# Snippets",
+		"CMakeEditor",
 		"Color Highlighter",
 		"DoxyDoc",
 		"Flow",
@@ -22,6 +25,9 @@
 		"Package Control",
 		"Pretty JSON",
 		"Project Manager",
+		"Shader Syntax (GLSL HLSL Cg)",
+		"ShaderLanguages",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-flow",
